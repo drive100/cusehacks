@@ -1,54 +1,47 @@
 package com.example.danielr258.cusewalks;
 
 import android.content.Intent;
-import android.support.v4.media.session.MediaSessionCompat;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
-import android.view.View.OnClickListener;
 import android.widget.TextView;
-import android.view.View;
 
+public class Second_Activity extends AppCompatActivity {
 
+    Button nextPage2;
 
-public class MainActivity extends AppCompatActivity {
-
-    Button nextPage;
-    TextView textbox;
-
-
+    Intent intent = getIntent();
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.activity_second_);
 
-        nextPage = (Button) findViewById(R.id.nextPage);
+        nextPage2 = (Button) findViewById(R.id.nextPage2);
         //
         // nextPage.setOnClickListener(nextPageOnClickListener);
 
-        textbox = (TextView) findViewById(R.id.textView);
+        //textbox = (TextView) findViewById(R.id.textView);
 
 
-        nextPage.setOnClickListener(new OnClickListener() {
+        nextPage2.setOnClickListener(new View.OnClickListener() {
 
             @Override
             public void onClick(View v) {
                 //Intent intent = new Intent(this, Second_Activity.class);
                 //setNextPage(v);
-                textbox.setText("booped");
+                //textbox.setText("booped");
                 setNextPage(v);
 
             }
         });
-
     }
 
     public void setNextPage(View view) {
-        Intent intent = new Intent(this, Second_Activity.class);
+        Intent intent = new Intent(this, Third_Activity.class);
         //EditText editText = (EditText) findViewById(R.id.editText);
-       // String message = editText.getText().toString();
-       // intent.putExtra(EXTRA_MESSAGE, message);
+        // String message = editText.getText().toString();
+        // intent.putExtra(EXTRA_MESSAGE, message);
         startActivity(intent);
     }
 
