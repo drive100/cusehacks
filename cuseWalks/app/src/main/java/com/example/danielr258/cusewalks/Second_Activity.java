@@ -9,7 +9,7 @@ import android.widget.TextView;
 
 public class Second_Activity extends AppCompatActivity {
 
-    Button nextPage2;
+    Button nextPage2, submit;
 
     Intent intent = getIntent();
     @Override
@@ -18,6 +18,7 @@ public class Second_Activity extends AppCompatActivity {
         setContentView(R.layout.activity_second_);
 
         nextPage2 = (Button) findViewById(R.id.nextPage2);
+        submit = (Button) findViewById(R.id.button2);
         //
         // nextPage.setOnClickListener(nextPageOnClickListener);
 
@@ -25,6 +26,18 @@ public class Second_Activity extends AppCompatActivity {
 
 
         nextPage2.setOnClickListener(new View.OnClickListener() {
+
+            @Override
+            public void onClick(View v) {
+                //Intent intent = new Intent(this, Second_Activity.class);
+                //setNextPage(v);
+                //textbox.setText("booped");
+                setNextPage(v);
+
+            }
+        });
+
+        submit.setOnClickListener(new View.OnClickListener() {
 
             @Override
             public void onClick(View v) {
