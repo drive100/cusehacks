@@ -100,7 +100,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
 
         try {
             KmlLayer layer;
-            layer = new KmlLayer(googleMap, R.raw.crimemap, getApplicationContext());
+            layer = new KmlLayer(googleMap, R.raw.convertcsv, getApplicationContext());
             layer.addLayerToMap();
             //layer.visibility(View.VISIBLE);
             //moveCameraToKml(layer);
