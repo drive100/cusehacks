@@ -10,9 +10,9 @@
         android:id="@+id/nextPage"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/textView2"
         android:layout_alignTop="@+id/buttonMaps"
-        android:layout_centerHorizontal="true"
-        android:text="Next Page" />
+        android:text="Report" />
 
     <TextView
         android:id="@+id/textView"
@@ -27,17 +27,17 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
-        android:layout_alignParentEnd="true"
-        android:layout_marginBottom="61dp"
-        android:layout_marginEnd="23dp"
+        android:layout_alignStart="@+id/textView2"
+        android:layout_marginBottom="33dp"
         android:text="Maps" />
 
     <TextView
         android:id="@+id/textView2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_above="@+id/textView3"
+        android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
+        android:layout_marginBottom="136dp"
         android:text="Address: 130 College Pl, Syracuse, NY 13210"
         android:textColor="@android:color/black"
         android:textSize="16sp" />
@@ -46,27 +46,37 @@
         android:id="@+id/textView3"
         android:layout_width="258dp"
         android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"
+        android:layout_below="@+id/textView2"
         android:layout_centerHorizontal="true"
-        android:layout_marginBottom="217dp"
-        android:text="Phone: (315) 443-2224"
+        android:layout_marginTop="-136dp"
+        android:text="DPS Phone: (315) 443-2224"
         android:textColor="@android:color/black"
-        android:textSize="24sp" />
-
-    <ImageView
-        android:id="@+id/imageView2"
-        android:layout_width="278dp"
-        android:layout_height="246dp"
-        android:layout_alignParentTop="true"
-        android:layout_centerHorizontal="true"
-        app:srcCompat="@mipmap/ic_logo" />
+        android:textSize="20sp" />
 
     <Button
         android:id="@+id/buttonReports"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignStart="@+id/textView2"
         android:layout_alignTop="@+id/nextPage"
-        android:text="Reports" />
+        android:layout_centerHorizontal="true"
+        android:text="Newsfeed" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="276dp"
+        android:layout_height="267dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="18dp"
+        app:srcCompat="@mipmap/logo" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="283dp"
+        android:layout_height="218dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="126dp"
+        app:srcCompat="@mipmap/cuse" />
 
 </android.widget.RelativeLayout>

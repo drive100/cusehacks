@@ -10,10 +10,10 @@
         android:id="@+id/nextPage2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignEnd="@+id/button2"
         android:layout_alignParentBottom="true"
-        android:layout_marginBottom="33dp"
-        android:text="Next Page" />
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="30dp"
+        android:text="Crime Map" />
 
     <EditText
         android:id="@+id/editText"
@@ -24,7 +24,7 @@
         android:layout_marginStart="37dp"
         android:layout_marginTop="28dp"
         android:ems="10"
-        android:hint="Name"
+        android:hint="Name:"
         android:inputType="textPersonName" />
 
     <EditText
@@ -35,7 +35,7 @@
         android:layout_alignStart="@+id/editText"
         android:layout_marginTop="111dp"
         android:ems="10"
-        android:hint="Location"
+        android:hint="Location:"
         android:inputType="textPersonName" />
 
     <Button
@@ -44,18 +44,18 @@
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginBottom="108dp"
+        android:layout_marginBottom="91dp"
         android:text="SUBMIT" />
 
     <EditText
         android:id="@+id/editText4"
-        android:layout_width="wrap_content"
+        android:layout_width="292dp"
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_alignStart="@+id/editText"
         android:layout_marginTop="198dp"
         android:ems="10"
-        android:hint="Description"
+        android:hint="Description:"
         android:inputType="textMultiLine" />
 
 </android.widget.RelativeLayout>

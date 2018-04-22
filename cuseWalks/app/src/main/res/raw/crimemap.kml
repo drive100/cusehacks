@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>Crime Map Syracuse</name>
+    <name>crimemap</name>
     <description>This map contains all the locations of crime  recently happened around University Hill, Syracuse, NY</description>
     <Style id="icon-1899-0288D1-normal">
       <IconStyle>
