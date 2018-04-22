@@ -1,0 +1,1902 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Crime Map Syracuse</name>
+    <description>This map contains all the locations of crime  recently happened around University Hill, Syracuse, NY</description>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Untitled layer</name>
+    </Folder>
+    <Folder>
+      <name>Book1.xlsx</name>
+      <Placemark>
+        <name>18-224309</name>
+        <address>215 UNIVERSITY PL, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 04/01/2018<br>Classification: ARSN-Arson<br>General Locations: 215 UNIVERSITY PL, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>04/01/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>ARSN-Arson</value>
+          </Data>
+          <Data name="General Locations">
+            <value>215 UNIVERSITY PL, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-214338</name>
+        <address>520 SLOCUM DR, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 03/25/2018<br>Classification: BURG-Burglary<br>General Locations: 520 SLOCUM DR, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>03/25/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>BURG-Burglary</value>
+          </Data>
+          <Data name="General Locations">
+            <value>520 SLOCUM DR, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-204963</name>
+        <address>520 CLARENDON ST, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 03/18/2018<br>Classification: BURG-Burglary<br>General Locations: 520 CLARENDON ST, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>03/18/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>BURG-Burglary</value>
+          </Data>
+          <Data name="General Locations">
+            <value>520 CLARENDON ST, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-198490</name>
+        <address>215 UNIVERSITY PL, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 03/13/2018<br>Classification: BURG-Burglary<br>General Locations: 215 UNIVERSITY PL, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>03/13/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>BURG-Burglary</value>
+          </Data>
+          <Data name="General Locations">
+            <value>215 UNIVERSITY PL, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-185658</name>
+        <address>601 COMSTOCK AVE, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 03/03/2018<br>Classification: BURG-Burglary<br>General Locations: 601 COMSTOCK AVE, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>03/03/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>BURG-Burglary</value>
+          </Data>
+          <Data name="General Locations">
+            <value>601 COMSTOCK AVE, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-244236</name>
+        <address>300 MOUNT OLYMPUS DR, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 04/16/2018<br>Classification: DRUG-CSC Sanction Only<br>General Locations: 300 MOUNT OLYMPUS DR, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>04/16/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>DRUG-CSC Sanction Only</value>
+          </Data>
+          <Data name="General Locations">
+            <value>300 MOUNT OLYMPUS DR, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-244150</name>
+        <address>303 STADIUM PL, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 04/15/2018<br>Classification: DRUG-CSC Sanction Only<br>General Locations: 303 STADIUM PL, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>04/15/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>DRUG-CSC Sanction Only</value>
+          </Data>
+          <Data name="General Locations">
+            <value>303 STADIUM PL, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-242999</name>
+        <address>420 LAMBRETH LN, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 04/15/2018<br>Classification: DRUG-CSC Sanction Only<br>General Locations: 420 LAMBRETH LN, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>04/15/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>DRUG-CSC Sanction Only</value>
+          </Data>
+          <Data name="General Locations">
+            <value>420 LAMBRETH LN, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-238194</name>
+        <address>621 WALNUT AVE, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 04/11/2018<br>Classification: DRUG-CSC Sanction Only<br>General Locations: 621 WALNUT AVE, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>04/11/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>DRUG-CSC Sanction Only</value>
+          </Data>
+          <Data name="General Locations">
+            <value>621 WALNUT AVE, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-237805</name>
+        <address>405 UNIVERSITY PL, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 04/11/2018<br>Classification: DRUG-CSC Sanction Only<br>General Locations: 405 UNIVERSITY PL, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>04/11/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>DRUG-CSC Sanction Only</value>
+          </Data>
+          <Data name="General Locations">
+            <value>405 UNIVERSITY PL, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-232767</name>
+        <address>403 VAN BUREN ST, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 04/07/2018<br>Classification: DRUG-CSC Sanction Only<br>General Locations: 403 VAN BUREN ST, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>04/07/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>DRUG-CSC Sanction Only</value>
+          </Data>
+          <Data name="General Locations">
+            <value>403 VAN BUREN ST, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-232044</name>
+        <address>420 LAMBRETH LN, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 04/07/2018<br>Classification: DRUG-CSC Sanction Only<br>General Locations: 420 LAMBRETH LN, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>04/07/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>DRUG-CSC Sanction Only</value>
+          </Data>
+          <Data name="General Locations">
+            <value>420 LAMBRETH LN, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-217904</name>
+        <address>300 MOUNT OLYMPUS DR, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 03/27/2018<br>Classification: DRUG-CSC Sanction Only<br>General Locations: 300 MOUNT OLYMPUS DR, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>03/27/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>DRUG-CSC Sanction Only</value>
+          </Data>
+          <Data name="General Locations">
+            <value>300 MOUNT OLYMPUS DR, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-216743</name>
+        <address>601 COMSTOCK AVE, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 03/27/2018<br>Classification: DRUG-CSC Sanction Only<br>General Locations: 601 COMSTOCK AVE, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>03/27/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>DRUG-CSC Sanction Only</value>
+          </Data>
+          <Data name="General Locations">
+            <value>601 COMSTOCK AVE, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-205509</name>
+        <address>300 MOUNT OLYMPUS DR, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 03/18/2018<br>Classification: DRUG-CSC Sanction Only<br>General Locations: 300 MOUNT OLYMPUS DR, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>03/18/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>DRUG-CSC Sanction Only</value>
+          </Data>
+          <Data name="General Locations">
+            <value>300 MOUNT OLYMPUS DR, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-191473</name>
+        <address>601 COMSTOCK AVE, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 03/07/2018<br>Classification: DRUG-CSC Sanction Only<br>General Locations: 601 COMSTOCK AVE, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>03/07/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>DRUG-CSC Sanction Only</value>
+          </Data>
+          <Data name="General Locations">
+            <value>601 COMSTOCK AVE, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-189328</name>
+        <address>410 CHINOOK DR, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 03/06/2018<br>Classification: DRUG-CSC Sanction Only<br>General Locations: 410 CHINOOK DR, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>03/06/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>DRUG-CSC Sanction Only</value>
+          </Data>
+          <Data name="General Locations">
+            <value>410 CHINOOK DR, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-178672</name>
+        <address>100 MOUNT OLYMPUS DR, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 02/26/2018<br>Classification: DRUG-CSC Sanction Only<br>General Locations: 100 MOUNT OLYMPUS DR, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>02/26/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>DRUG-CSC Sanction Only</value>
+          </Data>
+          <Data name="General Locations">
+            <value>100 MOUNT OLYMPUS DR, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-175002</name>
+        <address>201 EUCLID AVE, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 02/23/2018<br>Classification: DRUG-CSC Sanction Only<br>General Locations: 201 EUCLID AVE, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>02/23/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>DRUG-CSC Sanction Only</value>
+          </Data>
+          <Data name="General Locations">
+            <value>201 EUCLID AVE, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-173198</name>
+        <address>809 WALNUT AVE, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 02/22/2018<br>Classification: DRUG-CSC Sanction Only<br>General Locations: 809 WALNUT AVE, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>02/22/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>DRUG-CSC Sanction Only</value>
+          </Data>
+          <Data name="General Locations">
+            <value>809 WALNUT AVE, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-173144</name>
+        <address>100 MOUNT OLYMPUS DR, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 02/22/2018<br>Classification: DRUG-CSC Sanction Only<br>General Locations: 100 MOUNT OLYMPUS DR, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>02/22/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>DRUG-CSC Sanction Only</value>
+          </Data>
+          <Data name="General Locations">
+            <value>100 MOUNT OLYMPUS DR, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-170322</name>
+        <address>300 MOUNT OLYMPUS DR, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 02/20/2018<br>Classification: DRUG-CSC Sanction Only<br>General Locations: 300 MOUNT OLYMPUS DR, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>02/20/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>DRUG-CSC Sanction Only</value>
+          </Data>
+          <Data name="General Locations">
+            <value>300 MOUNT OLYMPUS DR, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-169718</name>
+        <address>403 VAN BUREN ST, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 02/20/2018<br>Classification: DRUG-CSC Sanction Only<br>General Locations: 403 VAN BUREN ST, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>02/20/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>DRUG-CSC Sanction Only</value>
+          </Data>
+          <Data name="General Locations">
+            <value>403 VAN BUREN ST, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-217958</name>
+        <address>570 SLOCUM DR, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 03/28/2018<br>Classification: FAPL-Fire/Appliance<br>General Locations: 570 SLOCUM DR, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>03/28/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>FAPL-Fire/Appliance</value>
+          </Data>
+          <Data name="General Locations">
+            <value>570 SLOCUM DR, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-242689</name>
+        <address>411 SMALL RD, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 04/14/2018<br>Classification: Fire<br>General Locations: 411 SMALL RD, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>04/14/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>Fire</value>
+          </Data>
+          <Data name="General Locations">
+            <value>411 SMALL RD, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-175275</name>
+        <address>155 SMALL RD, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 02/24/2018<br>Classification: Fire<br>General Locations: 155 SMALL RD, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>02/24/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>Fire</value>
+          </Data>
+          <Data name="General Locations">
+            <value>155 SMALL RD, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-247857</name>
+        <address>100 MOUNT OLYMPUS DR, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 04/18/2018<br>Classification: Fraud<br>General Locations: 100 MOUNT OLYMPUS DR, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>04/18/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>Fraud</value>
+          </Data>
+          <Data name="General Locations">
+            <value>100 MOUNT OLYMPUS DR, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-239283</name>
+        <address>100 MOUNT OLYMPUS DR, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 04/12/2018<br>Classification: Fraud<br>General Locations: 100 MOUNT OLYMPUS DR, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>04/12/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>Fraud</value>
+          </Data>
+          <Data name="General Locations">
+            <value>100 MOUNT OLYMPUS DR, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-234938</name>
+        <address>301 UNIVERSITY PL, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 04/09/2018<br>Classification: Fraud<br>General Locations: 301 UNIVERSITY PL, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>04/09/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>Fraud</value>
+          </Data>
+          <Data name="General Locations">
+            <value>301 UNIVERSITY PL, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-248810</name>
+        <address>1105 HARRISON ST, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 04/19/2018<br>Classification: HARR-Harassment<br>General Locations: 1105 HARRISON ST, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>04/19/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>HARR-Harassment</value>
+          </Data>
+          <Data name="General Locations">
+            <value>1105 HARRISON ST, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-243746</name>
+        <address>131 CROUSE DR, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 04/15/2018<br>Classification: HARR-Harassment<br>General Locations: 131 CROUSE DR, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>04/15/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>HARR-Harassment</value>
+          </Data>
+          <Data name="General Locations">
+            <value>131 CROUSE DR, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-236283</name>
+        <address>300 MOUNT OLYMPUS DR, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 04/10/2018<br>Classification: HARR-Harassment<br>General Locations: 300 MOUNT OLYMPUS DR, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>04/10/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>HARR-Harassment</value>
+          </Data>
+          <Data name="General Locations">
+            <value>300 MOUNT OLYMPUS DR, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-234565</name>
+        <address>130 COLLEGE PL, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 04/09/2018<br>Classification: HARR-Harassment<br>General Locations: 130 COLLEGE PL, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>04/09/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>HARR-Harassment</value>
+          </Data>
+          <Data name="General Locations">
+            <value>130 COLLEGE PL, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-234918</name>
+        <address>130 COLLEGE PL, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 04/09/2018<br>Classification: HARR-Harassment<br>General Locations: 130 COLLEGE PL, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>04/09/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>HARR-Harassment</value>
+          </Data>
+          <Data name="General Locations">
+            <value>130 COLLEGE PL, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-233435</name>
+        <address>300 MOUNT OLYMPUS DR, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 04/07/2018<br>Classification: HARR-Harassment<br>General Locations: 300 MOUNT OLYMPUS DR, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>04/07/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>HARR-Harassment</value>
+          </Data>
+          <Data name="General Locations">
+            <value>300 MOUNT OLYMPUS DR, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-231020</name>
+        <address>401 VAN BUREN ST, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 04/06/2018<br>Classification: HARR-Harassment<br>General Locations: 401 VAN BUREN ST, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>04/06/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>HARR-Harassment</value>
+          </Data>
+          <Data name="General Locations">
+            <value>401 VAN BUREN ST, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-229614</name>
+        <address>130 COLLEGE PL, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 04/05/2018<br>Classification: HARR-Harassment<br>General Locations: 130 COLLEGE PL, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>04/05/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>HARR-Harassment</value>
+          </Data>
+          <Data name="General Locations">
+            <value>130 COLLEGE PL, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-229612</name>
+        <address>130 COLLEGE PL, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 04/05/2018<br>Classification: HARR-Harassment<br>General Locations: 130 COLLEGE PL, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>04/05/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>HARR-Harassment</value>
+          </Data>
+          <Data name="General Locations">
+            <value>130 COLLEGE PL, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-229610</name>
+        <address>130 COLLEGE PL, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 04/05/2018<br>Classification: HARR-Harassment<br>General Locations: 130 COLLEGE PL, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>04/05/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>HARR-Harassment</value>
+          </Data>
+          <Data name="General Locations">
+            <value>130 COLLEGE PL, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-226880</name>
+        <address>621 SKYTOP RD, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 04/03/2018<br>Classification: HARR-Harassment<br>General Locations: 621 SKYTOP RD, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>04/03/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>HARR-Harassment</value>
+          </Data>
+          <Data name="General Locations">
+            <value>621 SKYTOP RD, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-225868</name>
+        <address>580 SLOCUM DR, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 04/03/2018<br>Classification: HARR-Harassment<br>General Locations: 580 SLOCUM DR, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>04/03/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>HARR-Harassment</value>
+          </Data>
+          <Data name="General Locations">
+            <value>580 SLOCUM DR, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-224230</name>
+        <address>221 LAMBRETH LN, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 04/01/2018<br>Classification: HARR-Harassment<br>General Locations: 221 LAMBRETH LN, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>04/01/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>HARR-Harassment</value>
+          </Data>
+          <Data name="General Locations">
+            <value>221 LAMBRETH LN, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-193862</name>
+        <address>721 UNIVERSITY AVE, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 03/09/2018<br>Classification: HARR-Harassment<br>General Locations: 721 UNIVERSITY AVE, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>03/09/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>HARR-Harassment</value>
+          </Data>
+          <Data name="General Locations">
+            <value>721 UNIVERSITY AVE, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-188185</name>
+        <address>130 COLLEGE PL, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 03/05/2018<br>Classification: HARR-Harassment<br>General Locations: 130 COLLEGE PL, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>03/05/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>HARR-Harassment</value>
+          </Data>
+          <Data name="General Locations">
+            <value>130 COLLEGE PL, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-188019</name>
+        <address>121 CROUSE DR, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 03/05/2018<br>Classification: HARR-Harassment<br>General Locations: 121 CROUSE DR, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>03/05/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>HARR-Harassment</value>
+          </Data>
+          <Data name="General Locations">
+            <value>121 CROUSE DR, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-247854</name>
+        <address>150 CROUSE DR, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 04/18/2018<br>Classification: Hazing<br>General Locations: 150 CROUSE DR, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>04/18/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>Hazing</value>
+          </Data>
+          <Data name="General Locations">
+            <value>150 CROUSE DR, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-182551</name>
+        <address>130 COLLEGE PL, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 03/01/2018<br>Classification: Hazing<br>General Locations: 130 COLLEGE PL, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>03/01/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>Hazing</value>
+          </Data>
+          <Data name="General Locations">
+            <value>130 COLLEGE PL, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-246506</name>
+        <address>1000 IRVING AVE, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 04/17/2018<br>Classification: LARC-Larceny<br>General Locations: 1000 IRVING AVE, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>04/17/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>LARC-Larceny</value>
+          </Data>
+          <Data name="General Locations">
+            <value>1000 IRVING AVE, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-242268</name>
+        <address>201 EUCLID AVE, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 04/14/2018<br>Classification: LARC-Larceny<br>General Locations: 201 EUCLID AVE, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>04/14/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>LARC-Larceny</value>
+          </Data>
+          <Data name="General Locations">
+            <value>201 EUCLID AVE, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-239832</name>
+        <address>721 UNIVERSITY AVE, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 04/12/2018<br>Classification: LARC-Larceny<br>General Locations: 721 UNIVERSITY AVE, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>04/12/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>LARC-Larceny</value>
+          </Data>
+          <Data name="General Locations">
+            <value>721 UNIVERSITY AVE, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-238668</name>
+        <address>401 SKYTOP RD, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 04/12/2018<br>Classification: LARC-Larceny<br>General Locations: 401 SKYTOP RD, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>04/12/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>LARC-Larceny</value>
+          </Data>
+          <Data name="General Locations">
+            <value>401 SKYTOP RD, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-238221</name>
+        <address>107 COLLEGE PL, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 04/11/2018<br>Classification: LARC-Larceny<br>General Locations: 107 COLLEGE PL, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>04/11/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>LARC-Larceny</value>
+          </Data>
+          <Data name="General Locations">
+            <value>107 COLLEGE PL, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-234398</name>
+        <address>619 COMSTOCK AVE, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 04/08/2018<br>Classification: LARC-Larceny<br>General Locations: 619 COMSTOCK AVE, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>04/08/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>LARC-Larceny</value>
+          </Data>
+          <Data name="General Locations">
+            <value>619 COMSTOCK AVE, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-231839</name>
+        <address>421 CHINOOK DR, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 04/06/2018<br>Classification: LARC-Larceny<br>General Locations: 421 CHINOOK DR, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>04/06/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>LARC-Larceny</value>
+          </Data>
+          <Data name="General Locations">
+            <value>421 CHINOOK DR, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-231340</name>
+        <address>110 SIMS DR, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 04/06/2018<br>Classification: LARC-Larceny<br>General Locations: 110 SIMS DR, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>04/06/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>LARC-Larceny</value>
+          </Data>
+          <Data name="General Locations">
+            <value>110 SIMS DR, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-229929</name>
+        <address>950 IRVING AVE, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 04/05/2018<br>Classification: LARC-Larceny<br>General Locations: 950 IRVING AVE, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>04/05/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>LARC-Larceny</value>
+          </Data>
+          <Data name="General Locations">
+            <value>950 IRVING AVE, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-219014</name>
+        <address>101 CROUSE DR, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 03/28/2018<br>Classification: LARC-Larceny<br>General Locations: 101 CROUSE DR, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>03/28/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>LARC-Larceny</value>
+          </Data>
+          <Data name="General Locations">
+            <value>101 CROUSE DR, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-218694</name>
+        <address>301 UNIVERSITY PL, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 03/28/2018<br>Classification: LARC-Larceny<br>General Locations: 301 UNIVERSITY PL, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>03/28/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>LARC-Larceny</value>
+          </Data>
+          <Data name="General Locations">
+            <value>301 UNIVERSITY PL, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-212337</name>
+        <address>918 IRVING AVE, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 03/23/2018<br>Classification: LARC-Larceny<br>General Locations: 918 IRVING AVE, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>03/23/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>LARC-Larceny</value>
+          </Data>
+          <Data name="General Locations">
+            <value>918 IRVING AVE, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-209426</name>
+        <address>721 UNIVERSITY AVE, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 03/21/2018<br>Classification: LARC-Larceny<br>General Locations: 721 UNIVERSITY AVE, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>03/21/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>LARC-Larceny</value>
+          </Data>
+          <Data name="General Locations">
+            <value>721 UNIVERSITY AVE, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-207037</name>
+        <address>111 CROUSE DR, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 03/19/2018<br>Classification: LARC-Larceny<br>General Locations: 111 CROUSE DR, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>03/19/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>LARC-Larceny</value>
+          </Data>
+          <Data name="General Locations">
+            <value>111 CROUSE DR, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-194263</name>
+        <address>250 SMALL RD, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 03/09/2018<br>Classification: LARC-Larceny<br>General Locations: 250 SMALL RD, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>03/09/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>LARC-Larceny</value>
+          </Data>
+          <Data name="General Locations">
+            <value>250 SMALL RD, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-189528</name>
+        <address>411 SMALL RD, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 03/06/2018<br>Classification: LARC-Larceny<br>General Locations: 411 SMALL RD, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>03/06/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>LARC-Larceny</value>
+          </Data>
+          <Data name="General Locations">
+            <value>411 SMALL RD, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-189130</name>
+        <address>100 MOUNT OLYMPUS DR, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 03/06/2018<br>Classification: LARC-Larceny<br>General Locations: 100 MOUNT OLYMPUS DR, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>03/06/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>LARC-Larceny</value>
+          </Data>
+          <Data name="General Locations">
+            <value>100 MOUNT OLYMPUS DR, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-188512</name>
+        <address>222 WAVERLY AVE, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 03/05/2018<br>Classification: LARC-Larceny<br>General Locations: 222 WAVERLY AVE, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>03/05/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>LARC-Larceny</value>
+          </Data>
+          <Data name="General Locations">
+            <value>222 WAVERLY AVE, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-185943</name>
+        <address>321 SLOCUM DR, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 03/03/2018<br>Classification: LARC-Larceny<br>General Locations: 321 SLOCUM DR, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>03/03/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>LARC-Larceny</value>
+          </Data>
+          <Data name="General Locations">
+            <value>321 SLOCUM DR, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-182906</name>
+        <address>550 SLOCUM DR, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 03/01/2018<br>Classification: LARC-Larceny<br>General Locations: 550 SLOCUM DR, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>03/01/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>LARC-Larceny</value>
+          </Data>
+          <Data name="General Locations">
+            <value>550 SLOCUM DR, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-184317</name>
+        <address>511 SKYTOP RD, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 03/02/2018<br>Classification: LARC-Larceny<br>General Locations: 511 SKYTOP RD, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>03/02/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>LARC-Larceny</value>
+          </Data>
+          <Data name="General Locations">
+            <value>511 SKYTOP RD, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-181391</name>
+        <address>721 UNIVERSITY AVE, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 02/28/2018<br>Classification: LARC-Larceny<br>General Locations: 721 UNIVERSITY AVE, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>02/28/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>LARC-Larceny</value>
+          </Data>
+          <Data name="General Locations">
+            <value>721 UNIVERSITY AVE, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-177397</name>
+        <address>405 UNIVERSITY PL, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 02/25/2018<br>Classification: LARC-Larceny<br>General Locations: 405 UNIVERSITY PL, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>02/25/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>LARC-Larceny</value>
+          </Data>
+          <Data name="General Locations">
+            <value>405 UNIVERSITY PL, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-175568</name>
+        <address>405 UNIVERSITY PL, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 02/24/2018<br>Classification: LARC-Larceny<br>General Locations: 405 UNIVERSITY PL, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>02/24/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>LARC-Larceny</value>
+          </Data>
+          <Data name="General Locations">
+            <value>405 UNIVERSITY PL, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-174709</name>
+        <address>400 COMSTOCK AVE, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 02/23/2018<br>Classification: LARC-Larceny<br>General Locations: 400 COMSTOCK AVE, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>02/23/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>LARC-Larceny</value>
+          </Data>
+          <Data name="General Locations">
+            <value>400 COMSTOCK AVE, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-174279</name>
+        <address>308 WALNUT PL, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 02/23/2018<br>Classification: LARC-Larceny<br>General Locations: 308 WALNUT PL, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>02/23/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>LARC-Larceny</value>
+          </Data>
+          <Data name="General Locations">
+            <value>308 WALNUT PL, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-174195</name>
+        <address>201 EUCLID AVE, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 02/23/2018<br>Classification: LARC-Larceny<br>General Locations: 201 EUCLID AVE, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>02/23/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>LARC-Larceny</value>
+          </Data>
+          <Data name="General Locations">
+            <value>201 EUCLID AVE, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-172531</name>
+        <address>285 AINSLEY DR, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 02/23/2018<br>Classification: LARC-Larceny<br>General Locations: 285 AINSLEY DR, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>02/23/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>LARC-Larceny</value>
+          </Data>
+          <Data name="General Locations">
+            <value>285 AINSLEY DR, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-246394</name>
+        <address>1200 E COLVIN ST, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 04/17/2018<br>Classification: MENA-Menacing<br>General Locations: 1200 E COLVIN ST, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>04/17/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>MENA-Menacing</value>
+          </Data>
+          <Data name="General Locations">
+            <value>1200 E COLVIN ST, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-235495</name>
+        <address>200 WALNUT PL, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 04/09/2018<br>Classification: MENT- Emot. Disturbed Person<br>General Locations: 200 WALNUT PL, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>04/09/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>MENT- Emot. Disturbed Person</value>
+          </Data>
+          <Data name="General Locations">
+            <value>200 WALNUT PL, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-233520</name>
+        <address>430 CHINOOK DR, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 04/08/2018<br>Classification: MENT- Emot. Disturbed Person<br>General Locations: 430 CHINOOK DR, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>04/08/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>MENT- Emot. Disturbed Person</value>
+          </Data>
+          <Data name="General Locations">
+            <value>430 CHINOOK DR, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-226260</name>
+        <address>100 MOUNT OLYMPUS DR, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 04/03/2018<br>Classification: MENT- Emot. Disturbed Person<br>General Locations: 100 MOUNT OLYMPUS DR, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>04/03/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>MENT- Emot. Disturbed Person</value>
+          </Data>
+          <Data name="General Locations">
+            <value>100 MOUNT OLYMPUS DR, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-211436</name>
+        <address>520 SLOCUM DR, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 03/23/2018<br>Classification: MENT- Emot. Disturbed Person<br>General Locations: 520 SLOCUM DR, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>03/23/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>MENT- Emot. Disturbed Person</value>
+          </Data>
+          <Data name="General Locations">
+            <value>520 SLOCUM DR, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-210186</name>
+        <address>705 WALNUT AVE, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 03/22/2018<br>Classification: MENT- Emot. Disturbed Person<br>General Locations: 705 WALNUT AVE, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>03/22/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>MENT- Emot. Disturbed Person</value>
+          </Data>
+          <Data name="General Locations">
+            <value>705 WALNUT AVE, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-208661</name>
+        <address>303 STADIUM PL, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 03/21/2018<br>Classification: MENT- Emot. Disturbed Person<br>General Locations: 303 STADIUM PL, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>03/21/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>MENT- Emot. Disturbed Person</value>
+          </Data>
+          <Data name="General Locations">
+            <value>303 STADIUM PL, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-192099</name>
+        <address>621 WALNUT AVE, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 03/08/2018<br>Classification: MENT- Emot. Disturbed Person<br>General Locations: 621 WALNUT AVE, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>03/08/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>MENT- Emot. Disturbed Person</value>
+          </Data>
+          <Data name="General Locations">
+            <value>621 WALNUT AVE, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-189822</name>
+        <address>300 MOUNT OLYMPUS DR, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 03/06/2018<br>Classification: MENT- Emot. Disturbed Person<br>General Locations: 300 MOUNT OLYMPUS DR, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>03/06/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>MENT- Emot. Disturbed Person</value>
+          </Data>
+          <Data name="General Locations">
+            <value>300 MOUNT OLYMPUS DR, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-186479</name>
+        <address>417 COMSTOCK AVE, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 03/04/2018<br>Classification: MENT- Emot. Disturbed Person<br>General Locations: 417 COMSTOCK AVE, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>03/04/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>MENT- Emot. Disturbed Person</value>
+          </Data>
+          <Data name="General Locations">
+            <value>417 COMSTOCK AVE, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-235302</name>
+        <address>130 COLLEGE PL, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 04/09/2018<br>Classification: Sex Offense - Anonymous<br>General Locations: 130 COLLEGE PL, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>04/09/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>Sex Offense - Anonymous</value>
+          </Data>
+          <Data name="General Locations">
+            <value>130 COLLEGE PL, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-235272</name>
+        <address>130 COLLEGE PL, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 04/09/2018<br>Classification: Sex Offense - Anonymous<br>General Locations: 130 COLLEGE PL, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>04/09/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>Sex Offense - Anonymous</value>
+          </Data>
+          <Data name="General Locations">
+            <value>130 COLLEGE PL, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-191979</name>
+        <address>130 COLLEGE PL, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 03/08/2018<br>Classification: Sex Offense - Anonymous<br>General Locations: 130 COLLEGE PL, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>03/08/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>Sex Offense - Anonymous</value>
+          </Data>
+          <Data name="General Locations">
+            <value>130 COLLEGE PL, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-178193</name>
+        <address>130 COLLEGE PL, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 02/26/2018<br>Classification: Sex Offense - Anonymous<br>General Locations: 130 COLLEGE PL, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>02/26/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>Sex Offense - Anonymous</value>
+          </Data>
+          <Data name="General Locations">
+            <value>130 COLLEGE PL, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-177998</name>
+        <address>130 COLLEGE PL, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 02/26/2018<br>Classification: Sex Offense - Anonymous<br>General Locations: 130 COLLEGE PL, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>02/26/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>Sex Offense - Anonymous</value>
+          </Data>
+          <Data name="General Locations">
+            <value>130 COLLEGE PL, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-214442</name>
+        <address>710 EUCLID AVE, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 03/25/2018<br>Classification: STAB-Stabbing<br>General Locations: 710 EUCLID AVE, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>03/25/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>STAB-Stabbing</value>
+          </Data>
+          <Data name="General Locations">
+            <value>710 EUCLID AVE, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-247861</name>
+        <address>1301 E COLVIN ST, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 04/18/2018<br>Classification: SUSI-Suspicious Event/Incident<br>General Locations: 1301 E COLVIN ST, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>04/18/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>SUSI-Suspicious Event/Incident</value>
+          </Data>
+          <Data name="General Locations">
+            <value>1301 E COLVIN ST, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-247226</name>
+        <address>905 WALNUT AVE, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 04/18/2018<br>Classification: SUSI-Suspicious Event/Incident<br>General Locations: 905 WALNUT AVE, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>04/18/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>SUSI-Suspicious Event/Incident</value>
+          </Data>
+          <Data name="General Locations">
+            <value>905 WALNUT AVE, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-246821</name>
+        <address>241 WINDING RIDGE RD, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 04/17/2018<br>Classification: SUSI-Suspicious Event/Incident<br>General Locations: 241 WINDING RIDGE RD, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>04/17/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>SUSI-Suspicious Event/Incident</value>
+          </Data>
+          <Data name="General Locations">
+            <value>241 WINDING RIDGE RD, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-232169</name>
+        <address>130 COLLEGE PL, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 04/06/2018<br>Classification: SUSI-Suspicious Event/Incident<br>General Locations: 130 COLLEGE PL, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>04/06/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>SUSI-Suspicious Event/Incident</value>
+          </Data>
+          <Data name="General Locations">
+            <value>130 COLLEGE PL, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-232136</name>
+        <address>331 SLOCUM DR, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 04/07/2018<br>Classification: SUSI-Suspicious Event/Incident<br>General Locations: 331 SLOCUM DR, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>04/07/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>SUSI-Suspicious Event/Incident</value>
+          </Data>
+          <Data name="General Locations">
+            <value>331 SLOCUM DR, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-227538</name>
+        <address>580 SLOCUM DR, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 04/03/2018<br>Classification: SUSI-Suspicious Event/Incident<br>General Locations: 580 SLOCUM DR, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>04/03/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>SUSI-Suspicious Event/Incident</value>
+          </Data>
+          <Data name="General Locations">
+            <value>580 SLOCUM DR, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-217969</name>
+        <address>417 COMSTOCK AVE, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 03/27/2018<br>Classification: SUSI-Suspicious Event/Incident<br>General Locations: 417 COMSTOCK AVE, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>03/27/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>SUSI-Suspicious Event/Incident</value>
+          </Data>
+          <Data name="General Locations">
+            <value>417 COMSTOCK AVE, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-217215</name>
+        <address>727 E WASHINGTON ST, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 03/27/2018<br>Classification: SUSI-Suspicious Event/Incident<br>General Locations: 727 E WASHINGTON ST, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>03/27/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>SUSI-Suspicious Event/Incident</value>
+          </Data>
+          <Data name="General Locations">
+            <value>727 E WASHINGTON ST, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-211125</name>
+        <address>101 CROUSE DR, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 03/22/2018<br>Classification: SUSI-Suspicious Event/Incident<br>General Locations: 101 CROUSE DR, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>03/22/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>SUSI-Suspicious Event/Incident</value>
+          </Data>
+          <Data name="General Locations">
+            <value>101 CROUSE DR, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-183389</name>
+        <address>167 MARSHALL ST, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 03/02/2018<br>Classification: SUSI-Suspicious Event/Incident<br>General Locations: 167 MARSHALL ST, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>03/02/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>SUSI-Suspicious Event/Incident</value>
+          </Data>
+          <Data name="General Locations">
+            <value>167 MARSHALL ST, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-181302</name>
+        <address>222 WAVERLY AVE, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 02/28/2018<br>Classification: SUSI-Suspicious Event/Incident<br>General Locations: 222 WAVERLY AVE, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>02/28/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>SUSI-Suspicious Event/Incident</value>
+          </Data>
+          <Data name="General Locations">
+            <value>222 WAVERLY AVE, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-178590</name>
+        <address>130 COLLEGE PL, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 02/26/2018<br>Classification: SUSI-Suspicious Event/Incident<br>General Locations: 130 COLLEGE PL, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>02/26/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>SUSI-Suspicious Event/Incident</value>
+          </Data>
+          <Data name="General Locations">
+            <value>130 COLLEGE PL, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-178337</name>
+        <address>101 CROUSE DR, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 02/26/2018<br>Classification: SUSI-Suspicious Event/Incident<br>General Locations: 101 CROUSE DR, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>02/26/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>SUSI-Suspicious Event/Incident</value>
+          </Data>
+          <Data name="General Locations">
+            <value>101 CROUSE DR, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-237897</name>
+        <address>901 IRVING AVE, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 04/11/2018<br>Classification: SUSP-Suspicious Person<br>General Locations: 901 IRVING AVE, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>04/11/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>SUSP-Suspicious Person</value>
+          </Data>
+          <Data name="General Locations">
+            <value>901 IRVING AVE, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-226095</name>
+        <address>100 LAMBRETH LN, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 04/02/2018<br>Classification: SUSP-Suspicious Person<br>General Locations: 100 LAMBRETH LN, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>04/02/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>SUSP-Suspicious Person</value>
+          </Data>
+          <Data name="General Locations">
+            <value>100 LAMBRETH LN, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-218830</name>
+        <address>151 SIMS DR, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 03/28/2018<br>Classification: SUSP-Suspicious Person<br>General Locations: 151 SIMS DR, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>03/28/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>SUSP-Suspicious Person</value>
+          </Data>
+          <Data name="General Locations">
+            <value>151 SIMS DR, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>17-494484</name>
+        <address>120 WINDING RIDGE RD, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 04/11/2018<br>Classification: SXOF-Sex Offense<br>General Locations: 120 WINDING RIDGE RD, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>04/11/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>SXOF-Sex Offense</value>
+          </Data>
+          <Data name="General Locations">
+            <value>120 WINDING RIDGE RD, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>18-220534</name>
+        <address>120 LAMBRETH LN, Syracuse NY USA</address>
+        <description><![CDATA[Disposition Date: 03/29/2018<br>Classification: SXOF-Sex Offense<br>General Locations: 120 LAMBRETH LN, Syracuse NY USA]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Disposition Date">
+            <value>03/29/2018</value>
+          </Data>
+          <Data name="Classification">
+            <value>SXOF-Sex Offense</value>
+          </Data>
+          <Data name="General Locations">
+            <value>120 LAMBRETH LN, Syracuse NY USA</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
